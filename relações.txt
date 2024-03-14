@@ -1,0 +1,10 @@
+Animal N		-	1 Raça
+Cliente	1		-	N Nota Fiscal
+J.Futebol N		-	N Campeonato
+Marido Oriental 1	-	N Esposa Oriental
+Nota Fiscal N		-	N Produto
+Funcionário N		-	1 Naturalidade
+Professor N		-	N Disciplina
+Carro N			- 	1 Marca
+Paciente N		-	N Doença
+Paciente N		-	N Médico

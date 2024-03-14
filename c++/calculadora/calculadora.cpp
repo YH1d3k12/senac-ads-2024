@@ -6,7 +6,6 @@
 using namespace std;
 	int operation;
 	float x, y, result;
-
 int sum() {
 	cout << "Adição de dois números" << "\n\n";
 	cout << "Informe o valor de x: ";
@@ -92,8 +91,8 @@ void pressEnter() {
 
 main() {
 	system("chcp 65001"); // Define conjunto de caracteres como o conjunto português brasileiro.
-
-	do {
+	
+	do {   
 		system("cls");
 		cout << "\n" << "Escolha uma opção a seguir:";
 		cout << "\n" << "[1] Adição";
